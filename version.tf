@@ -1,4 +1,4 @@
- terraform {
+code main.tf terraform {
   required_providers {
     aws = {
       source = "hashicorp/aws"
